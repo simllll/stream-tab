@@ -1,0 +1,23 @@
+{
+	"networkInterface": "192.168.8.111",
+	"ffmpegExecutable": "ffmpeg",
+	"browserExecutable": null,
+	"directRenderMode": false,
+	"chromecastMapping": {
+		"DeviceName": "streamname"
+	},
+	"defaultScreen": "streamname",
+	"screens": [
+		{
+			"url": "https://hokify.at",
+			"name": "streamname",
+			"cookies": [
+				{
+					"name": "hello",
+					"value": "asdf",
+					"domain": ".hokify.at"
+				}
+			]
+		}
+	]
+}
