@@ -1,0 +1,19 @@
+.background {
+    background: #484848; /* #0fb1af; */
+}
+
+.logo {
+    background-image: url(https://files.hokify.com/assets/dashboard/logo-white.png);
+}
+
+.progressBar {
+    display: none;
+}
+
+.player .controls-progress {
+    display: none;
+}
+
+cast-media-player {
+    --progress-color: rgba(0, 0, 0, 0.0);
+}
