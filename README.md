@@ -43,4 +43,8 @@ To get things started you need:
  
 CONTRIBUTIONS WELCOME! If you are willing to help, just open a PR or contact me via bug system or simon.tretter@hokify.com.
 
+# Frontend
+There is a little status page included, which runs on port 8000 by default.
+Open `http://<networkInterface>:8000/` in your browser.
 
+![dashboard-streaming-server](dashboard-streaming-server.png)
